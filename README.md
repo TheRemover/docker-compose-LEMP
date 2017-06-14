@@ -23,4 +23,6 @@ sudo chown -R www-data:www-data code
 ## Start the LEMP stack:
 sudo docker-compose up
 
+More detailed instructions can be found at https://techbytesecurity.com/2017/06/dockerize-a-lemp-stack
+
 
